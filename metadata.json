@@ -1,0 +1,6 @@
+{
+  "name": "AI Diet & Calorie Tracker",
+  "description": "AI-powered diet recommendation, health calculator, meal planner, and calorie tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
